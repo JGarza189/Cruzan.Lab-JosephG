@@ -1,0 +1,28 @@
+# macOS system files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+venv/
+.env
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Bash / general temp
+*.swp
+*.tmp
+*.log
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Office / Word temporary files
+~$*
+
