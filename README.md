@@ -16,13 +16,13 @@ The project focuses on the genetic and demographic health of Oregon White Oak (*
   Grant materials (e.g., GRFP, other awards), previous submissions, supporting documents, and resources.
 
 - **graduate-school/**  
-  Academic and professional development documents relevant to graduate studies.
+  Academic and professional development documents relevant to applying to Portland Sate University (Fall 2026).
 
 - **literature/**  
-  Reference PDFs and articles relevant to research, methods, and grant preparation.
+  Articles relevant to research, methods, and grant preparation.
 
 - **meetings/**  
-  Notes from lab meetings, office hours, and discussions with collaborators.
+  Notes from lab meetings, office hours, and discussions with Dr. Cruzan.
 
 - **other/**  
   CVs, schedules, application materials, and miscellaneous project documents.
