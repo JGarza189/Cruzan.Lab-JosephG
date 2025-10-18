@@ -1,41 +1,36 @@
 # Ten Thousand Oaks Project – Joseph Garza
 
-**Advisor:** Mitch Cruzan, Professor of Biology, Portland State University  
-**Contact:** cruzan@pdx.edu  
+This private repository serves as the hub for internal data management, analyses, and project documentation for my work on the Ten Thousand Oaks Project with Professor Mitch Cruzan at Portland State University.  
 
----
+The project focuses on the genetic and demographic health of Oregon White Oak (*Quercus garryana var. garryana*) across its range. It investigates standing genomic variation, somatic mutations, and phenotypic plasticity, and explores strategies for admixture of local and arid-adapted genotypes to support population resilience under climate change.
 
-## Project Overview
-
-This repository contains my work on the **Ten Thousand Oaks Project**, focusing on the genetic and demographic health of Oregon White Oak (*Quercus garryana var. garryana*).  
-
-### Research Goals
-- Investigate standing genomic variation, somatic mutations, and phenotypic plasticity  
-- Identify populations vulnerable to climate change  
-- Explore admixture strategies combining local and arid-adapted genotypes for restoration  
-
-### Approach
-- Collect and analyze ecological, genetic, and geographic data  
-- Use bioinformatics pipelines, phylogeography, landscape genetics, and GIS analyses  
-- Conduct controlled pollination experiments to generate hybrid and pure acorns  
-- Monitor trial plantings for survival and long-term performance  
-
----
+**Advisor:** Prof. Mitch Cruzan  
+**GitHub Repo Maintained by:** Joseph Garza (2025–Present)
 
 ## Repository Structure
 
-- `data/` – Ecological, geographic, and genetic datasets, species photos  
-- `funding/` – GRFP and other grant materials, previous award documents  
-- `graduate-school/` – Academic and professional development resources  
-- `literature/` – References and PDFs relevant to research and funding  
-- `meetings/` – Notes from lab meetings, office hours, and discussions  
-- `other/` – CVs, schedules, and miscellaneous project documents  
-- `README.md` – This file  
-- `LICENSE` – Repository license  
+- **data/**  
+  Ecological, geographic, and genetic datasets, including species photos and distribution maps.
 
----
+- **funding/**  
+  Grant materials (e.g., GRFP, other awards), previous submissions, supporting documents, and resources.
 
-## Notes
+- **graduate-school/**  
+  Academic and professional development documents relevant to graduate studies.
 
-This repository is maintained for personal research, project documentation, and grant preparation. For questions regarding methods, data, or analyses, contact Joseph Garza or Prof. Mitch Cruzan.
+- **literature/**  
+  Reference PDFs and articles relevant to research, methods, and grant preparation.
 
+- **meetings/**  
+  Notes from lab meetings, office hours, and discussions with collaborators.
+
+- **other/**  
+  CVs, schedules, application materials, and miscellaneous project documents.
+
+- **README.md**  
+  Project overview and repository navigation guide.
+
+- **LICENSE**  
+  Repository license information.
+
+> **Note:** This repository is for personal research use and project documentation. It is not intended for public distribution, publication, or citation.
