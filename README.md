@@ -2,7 +2,7 @@
 
 This repository serves as the hub for data management, analyses, and project documentation for work on the Ten Thousand Oaks Project with Professor Mitch Cruzan at Portland State University.  
 
-The project focuses on the genetic and demographic health of Oregon White Oak (*Quercus garryana var. garryana*) across its range. It investigates standing genomic variation, somatic mutations, and phenotypic plasticity, and explores strategies for admixture of local and arid-adapted genotypes to support population resilience under climate change.
+The project focuses on the genetic and demographic health of Oregon White Oak (*Quercus garryana*) across its range. It investigates standing genomic variation, somatic mutations, and phenotypic plasticity, and explores strategies for understanding local and arid-adapted genotypes to support population resilience under climate change.
 
 **Advisor:** Dr. Mitch Cruzan  
 **Graduate Student:** Joseph Garza (2025–Present)
