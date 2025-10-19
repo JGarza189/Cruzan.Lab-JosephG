@@ -21,14 +21,17 @@ The project focuses on the genetic and demographic health of Oregon White Oak (*
 - **literature/**  
   Articles relevant to research, methods, and grant preparation.
 
-- **mauscript/**  
-  Documents related to manuscripts and thesis.
+- **manuscript/**  
+  Drafts, figures, and related files for publications, conference papers, and thesis chapters.
 
 - **meetings/**  
   Notes from lab meetings, office hours, and discussions with Dr. Cruzan.
 
 - **other/**  
   CVs, schedules, application materials, and miscellaneous project documents.
+
+- **scripts/**  
+  Code and workflows for data processing, analysis, and subsequent output. 
 
 - **README.md**  
   Project overview and repository navigation guide.
