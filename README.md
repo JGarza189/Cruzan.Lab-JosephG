@@ -9,6 +9,9 @@ The project focuses on the genetic and demographic health of Oregon White Oak (*
 
 ## Directory Structure
 
+- **budget/**  
+  Contains itemized purchase lists and budget tracking files for lab materials, equipment, and project expenses.
+
 - **data/**  
   Ecological, geographic, and genetic datasets, including species photos and distribution maps.
 
