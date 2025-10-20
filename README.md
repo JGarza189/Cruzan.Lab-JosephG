@@ -33,9 +33,6 @@ The project focuses on the genetic and demographic health of Oregon White Oak (*
 - **other/**  
   CVs, schedules, application materials, and miscellaneous project documents.
 
-- **scripts/**  
-  Code and workflows for data processing, analysis, and subsequent output. 
-
 - **README.md**  
   Project overview and repository navigation guide.
 
